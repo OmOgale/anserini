@@ -577,3 +577,5 @@ If you think this guide can be improved in any way (e.g., you caught a typo or t
 + Results reproduced by [@zxtomw](https://github.com/zxtomw) on 2026-06-06 (commit [`c96de33`](https://github.com/castorini/anserini/commit/c96de33cb1096e4294a4005a3a88324b2c8ef518))
 + Results reproduced by [@rhea2801](https://github.com/rhea2801) on 2026-06-06 (commit [`147521d`](https://github.com/castorini/anserini/commit/147521da48a3b71cf359fd35e32c0fff7fe86eb8))
 + Results reproduced by [@kenoi1](https://github.com/kenoi1) on 2026-06-11 (commit [`6663a15`](https://github.com/castorini/anserini/commit/6663a15bffe0242e927c53744e5b140ce1a0bcba))
++ Results reproduced by [@OmOgale](https://github.com/OmOgale) on 2026-06-14 (commit [`3a2aaf6
+`](https://github.com/castorini/anserini/commit/3a2aaf619add3d7bdd958da52ba37271b5a55e2d))
